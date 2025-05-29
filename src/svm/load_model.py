@@ -7,6 +7,7 @@ from PIL import Image
 import pickle
 import pandas as pd
 
+
 app = Flask(__name__)
 
 # Load emotion prediction model
